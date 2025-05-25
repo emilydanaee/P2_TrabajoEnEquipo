@@ -57,3 +57,7 @@ Nombre: Registrar hotel en sistema              |
 Resumen: Agregar hoteles al sistema principal.  |
 Entradas: Hotel creado con habitaciones.        |
 Resultado: Hotel disponible para reservas.      |
+
+
+![image](https://github.com/user-attachments/assets/c6bdba45-740d-4f0e-8715-54d1eafb9cb0)
+
